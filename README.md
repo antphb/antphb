@@ -21,8 +21,8 @@ Tôi là một [Chức danh/Nghề nghiệp] đam mê [Công nghệ/Lĩnh vực 
 
 ## 📈 Thống kê GitHub của tôi
 
-![Thống kê GitHub của bạn](https://github-readme-stats.vercel.app/api?username=tên_tài_khoản_github&show_icons=true&theme=radical)
-![Ngôn ngữ hay sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=tên_tài_khoản_github&layout=compact&theme=radical)
+![Thống kê GitHub của bạn](https://github-readme-stats.vercel.app/api?username=antphb&show_icons=true&theme=radical)
+![Ngôn ngữ hay sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=antphb&layout=compact&theme=radical)
 
 ## 💬 Hỏi tôi về
 - [Các chủ đề bạn giỏi]
