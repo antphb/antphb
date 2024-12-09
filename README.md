@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antphb&label=Profile%20views&color=0e75b6&style=flat" alt="antphb" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/antphb](https://github.com/antphb)
+- 👨‍💻 All of my projects are available at [github](https://github.com/antphb)
 
 - 📫 How to reach me **thanhnd2462245@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YCKBruTbhL0aFYvYiVOMSNRrMC-BLsna/view?usp=sharing](https://drive.google.com/file/d/1YCKBruTbhL0aFYvYiVOMSNRrMC-BLsna/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1YCKBruTbhL0aFYvYiVOMSNRrMC-BLsna/view?usp=sharing)
 
 - ⚡ Fun fact **I think i'm funny**
 
