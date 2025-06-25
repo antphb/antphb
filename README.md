@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thanhnd2462245@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1YCKBruTbhL0aFYvYiVOMSNRrMC-BLsna/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://www.overleaf.com/read/xpjsmhqqvjvj#b606d1)
 
 - ⚡ Fun fact **I think i'm funny**
 
